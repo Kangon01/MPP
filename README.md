@@ -1,6 +1,6 @@
-# MPP – Lernmaterialien
+# MPP – Mündliche Praxisprüfung
 
-Sammlung von Lernskripten für das Studium.
+Lernskripte zur Vorbereitung auf die mündliche Praxisprüfung.
 
 ## Inhalt
 
